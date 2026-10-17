@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "version": "0.1.0.2",
+  "protocol": 74,
+  "notes": "Windows 測試版 0.1.0.2。完整遊戲更新；保留玩家存檔。",
+  "megaUrl": "https://mega.nz/file/oU9WiQaK#moQXcADIiFhIknChxHNqxF3R_9iNF8ZAAnS_bAg_sNs",
+  "size": 7620149340,
+  "sha256": "70fe1e87aefef9841e778336db580d0516c036fb894a8c20d1c011e99d104197",
+  "unpackedSize": 7620148698,
+  "exe": "RobotsAndCats.exe",
+  "pck": "RobotsAndCats.pck",
+  "files": [
+    {
+      "path": "READ_ME.txt",
+      "size": 924,
+      "sha256": "a90660d3c54ace08a7d07cfaba88345752596db0b5d4e198740d4b3cba09ebf7"
+    },
+    {
+      "path": "RobotsAndCats.console.exe",
+      "size": 91136,
+      "sha256": "97e20a5486101371a7335bdc09be59900a4722dd02f4f54a644fc55e0fc6c30a"
+    },
+    {
+      "path": "RobotsAndCats.exe",
+      "size": 103076864,
+      "sha256": "b38c61f9803fb06f919bb94e380b5f7ce47c1880c89a5e880bd1cc2125fcc040"
+    },
+    {
+      "path": "RobotsAndCats.pck",
+      "size": 7516979774,
+      "sha256": "947d3e0357d239d8a677041d385ad958aa896bfefa0c1e69155f7208a4cbb42d"
+    }
+  ]
+}
