@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.1.0.2",
-  "protocol": 74,
-  "notes": "Windows 測試版 0.1.0.2。完整遊戲更新；保留玩家存檔。",
-  "megaUrl": "https://mega.nz/file/oU9WiQaK#moQXcADIiFhIknChxHNqxF3R_9iNF8ZAAnS_bAg_sNs",
-  "size": 7620149340,
-  "sha256": "70fe1e87aefef9841e778336db580d0516c036fb894a8c20d1c011e99d104197",
-  "unpackedSize": 7620148698,
+  "version": "0.1.0.3",
+  "protocol": 81,
+  "notes": "Windows \u6E2C\u8A66\u7248 0.1.0.3\u3002\u5B8C\u6574\u904A\u6232\u66F4\u65B0\uFF0C\u4FDD\u7559\u73A9\u5BB6\u5B58\u6A94\uFF1B\u591A\u4EBA\u904A\u73A9\u8ACB\u5168\u54E1\u66F4\u65B0\u3002",
+  "megaUrl": "https://mega.nz/file/scNWFRjB#y9kNqXWcGayjCWUPYg_JdAyivpg9AkugEL9suZCF-V4",
+  "size": 8476607275,
+  "sha256": "b7434440832c569d927e2667e2a3c77b4b104f0547e1a00fd8c125d62210a6ff",
+  "unpackedSize": 8476606413,
   "exe": "RobotsAndCats.exe",
   "pck": "RobotsAndCats.pck",
   "files": [
@@ -27,8 +27,8 @@
     },
     {
       "path": "RobotsAndCats.pck",
-      "size": 7516979774,
-      "sha256": "947d3e0357d239d8a677041d385ad958aa896bfefa0c1e69155f7208a4cbb42d"
+      "size": 8373437489,
+      "sha256": "c21227790528e445b7de157219c8a06d7d2820eab69698c1e2c1fb8428c3b458"
     }
   ]
 }
