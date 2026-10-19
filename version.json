@@ -1,34 +1,8 @@
 {
-  "schema": 1,
-  "version": "0.1.0.3",
-  "protocol": 81,
-  "notes": "Windows \u6E2C\u8A66\u7248 0.1.0.3\u3002\u5B8C\u6574\u904A\u6232\u66F4\u65B0\uFF0C\u4FDD\u7559\u73A9\u5BB6\u5B58\u6A94\uFF1B\u591A\u4EBA\u904A\u73A9\u8ACB\u5168\u54E1\u66F4\u65B0\u3002",
-  "megaUrl": "https://mega.nz/file/scNWFRjB#y9kNqXWcGayjCWUPYg_JdAyivpg9AkugEL9suZCF-V4",
-  "size": 8476607275,
-  "sha256": "b7434440832c569d927e2667e2a3c77b4b104f0547e1a00fd8c125d62210a6ff",
-  "unpackedSize": 8476606413,
-  "exe": "RobotsAndCats.exe",
-  "pck": "RobotsAndCats.pck",
-  "files": [
-    {
-      "path": "READ_ME.txt",
-      "size": 924,
-      "sha256": "a90660d3c54ace08a7d07cfaba88345752596db0b5d4e198740d4b3cba09ebf7"
-    },
-    {
-      "path": "RobotsAndCats.console.exe",
-      "size": 91136,
-      "sha256": "97e20a5486101371a7335bdc09be59900a4722dd02f4f54a644fc55e0fc6c30a"
-    },
-    {
-      "path": "RobotsAndCats.exe",
-      "size": 103076864,
-      "sha256": "b38c61f9803fb06f919bb94e380b5f7ce47c1880c89a5e880bd1cc2125fcc040"
-    },
-    {
-      "path": "RobotsAndCats.pck",
-      "size": 8373437489,
-      "sha256": "c21227790528e445b7de157219c8a06d7d2820eab69698c1e2c1fb8428c3b458"
-    }
-  ]
+  "version": "0.4.1",
+  "channel": "beta",
+  "download_type": "mega",
+  "download_url": "https://mega.nz/file/MB0GmK5A#2Cu8u0oCQRsX4CbVoaMjci3OSpH1JlwjvebLHATDaeI",
+  "sha256": "",
+  "notes": "Robots & Cats 測試版"
 }
