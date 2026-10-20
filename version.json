@@ -1,15 +1,20 @@
 {
   "schema": 1,
-  "version": "0.4.4",
-  "protocol": 82,
-  "notes": "Robots & Cats Windows 測試版 0.4.4。多人遊玩請全員更新至相同版本。",
-  "megaUrl": "https://mega.nz/file/tBln0BJT#JmEvd_mkM4msNagU620C0Tg6X1bIc-ROhFta6DQ4Kto",
-  "size": 6234105564,
-  "sha256": "b90150e3dc44046294fbcead79140b1b973ac90647fcc3ae839d8434ef840b4d",
-  "unpackedSize": 8522236647,
+  "version": "0.4.5",
+  "protocol": 85,
+  "notes": "Robots & Cats Windows 測試版 0.4.5。多人遊玩請全員更新至相同版本。",
+  "megaUrl": "https://mega.nz/file/VdFTEBqT#YQpsA5OW-O99woxTuDfhhAth6twCdYdfM5rjJA9Soqo",
+  "size": 6301328878,
+  "sha256": "87aaf25289491e30eb662884b782091f6475ad36b55ccc1ee4fe87c8350b6657",
+  "unpackedSize": 8600775747,
   "exe": "RobotsAndCats.exe",
   "pck": "RobotsAndCats.pck",
   "files": [
+    {
+      "path": "RobotsAndCats.pck",
+      "size": 8497606823,
+      "sha256": "d2bed794f6a2db9f182cab63848823519b5d13b55f41fe0e7775f60f9bd60566"
+    },
     {
       "path": "READ_ME.txt",
       "size": 924,
@@ -24,14 +29,9 @@
       "path": "RobotsAndCats.exe",
       "size": 103076864,
       "sha256": "b38c61f9803fb06f919bb94e380b5f7ce47c1880c89a5e880bd1cc2125fcc040"
-    },
-    {
-      "path": "RobotsAndCats.pck",
-      "size": 8419067723,
-      "sha256": "52ee1627bf415963645d872c5cf76233f30661ccf1feb9cb4aaf53b1f0d1694d"
     }
   ],
   "channel": "beta",
   "download_type": "mega",
-  "download_url": "https://mega.nz/file/tBln0BJT#JmEvd_mkM4msNagU620C0Tg6X1bIc-ROhFta6DQ4Kto"
+  "download_url": "https://mega.nz/file/VdFTEBqT#YQpsA5OW-O99woxTuDfhhAth6twCdYdfM5rjJA9Soqo"
 }
